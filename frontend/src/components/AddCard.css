@@ -1,0 +1,39 @@
+.add-card {
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 500px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .add-card h2 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .add-card input,
+  .add-card textarea {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .add-card button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .add-card button:hover {
+    background-color: #0056b3;
+  }
+  
